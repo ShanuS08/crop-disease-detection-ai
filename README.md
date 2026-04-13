@@ -12,9 +12,6 @@ This project detects crop diseases using deep learning (CNN) and also provides s
 ## 🧠 Tech Stack
 Python, Flask, TensorFlow, Keras, NumPy, HTML
 
-## 📂 Project Structure
-(app structure here)
-
 ## ⚙️ How to Run
 ```bash
 pip install -r requirements.txt
